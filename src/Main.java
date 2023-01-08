@@ -29,7 +29,6 @@ public class Main {
             int number = 0;
             while (number <= 10) {
                 System.out.print(number++ + " ");
-
             }
             System.out.println();
             for (number = number-1; number >= 0; number--) {
